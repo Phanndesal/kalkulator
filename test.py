@@ -47,6 +47,7 @@ def handle_click(x, y):
                 first_operand = None
                 operation = None
 
+#jimster
 def calculate():
     #main function
     global current_input, first_operand, operation
